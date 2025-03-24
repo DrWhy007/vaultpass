@@ -105,7 +105,7 @@ VaultPass/
 ├── script.js # Core application logic
 ├── LICENSE # MIT License
 ├── README.md # Project documentation
-├── robots.txt # Search engine instructions
+└── robots.txt # Search engine instructions
 
 ---
 
